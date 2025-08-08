@@ -2,7 +2,7 @@
 This repository contains datasets and Python codes used for curve fitting and machine learning (ML) analysis in our study on secondary neutron dose attenuation in various shielding environments for high-energy proton accelerators.
 
 **Dataset Information**
-Source of data: FLUKA Monte Carlo simulations (performed by [Arkadaşının Adı])
+Source of data: FLUKA Monte Carlo simulations (performed by Demet Sarıyer)
 
 **Energy levels:** 50, 100, 250, and 1000 MeV proton beams
 
